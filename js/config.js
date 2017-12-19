@@ -115,8 +115,8 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 	"Enjoy the server",
+	"Welcome To Thermal Networks",
 	"Thanks for joining us!",
-	"Did you know these backgrounds and music are from Touhou?",
 ];
 
 /*Random message order?
