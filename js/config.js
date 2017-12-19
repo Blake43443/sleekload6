@@ -98,7 +98,8 @@ Add as many youtube ids or ogg files you want
 var l_musicPlaylist = [
 	{ogg: "music1.ogg", name: "Blame It On The Night"},
 	{ogg: "music2.ogg", name: "Love Me Again"},
-
+];
+	
 /*Random music order?
 'true' or 'false'*/
 var l_musicRandom = true;
