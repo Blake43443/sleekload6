@@ -57,9 +57,9 @@ Place one or more images
 Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
-	"touhou01.jpg",
-	"touhou02.jpg",
-	"touhou03.jpg"
+	"pic1.jpg",
+	"pic2.jpg",
+	"pic3.jpg"
 ];
 
 /*Random background images order?
