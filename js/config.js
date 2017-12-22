@@ -59,7 +59,10 @@ Multiple images will automatically shuffle between them
 var l_bgImages = [
 	"pic1.jpg",
 	"pic2.jpg",
-	"pic3.jpg"
+	"pic3.jpg",
+	"pic4.jpg",
+	"pic5.jpg",
+	"pic6.jpg"
 ];
 
 /*Random background images order?
