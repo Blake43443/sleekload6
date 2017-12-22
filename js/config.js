@@ -100,7 +100,7 @@ Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
 	{youtube: "HJb0VYVtaNc", name: "Blame It On The Night"},
-	{yotube: "CfihYWRWRTQ", name: "Love Me Again"},
+	{youtube: "CfihYWRWRTQ", name: "Love Me Again"},
 ];
 	
 /*Random music order?
