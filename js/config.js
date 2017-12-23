@@ -109,7 +109,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 (quietest) and 100 (loudest)*/
-var l_musicVolume = 10;
+var l_musicVolume = 7;
 
 /*Enable custom messages?
 'true' or 'false'*/
@@ -117,9 +117,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-	"Enjoy the server",
-	"Welcome To Thermal Networks",
-	"Thanks for joining us!",
+     "Welcome To Thermal Network",
+	 "Thank You For Joining",
+	 "Enjoy Your Stay",
+	 "Join Our Teamspeak ts87.gameservers.com:9120"
 ];
 
 /*Random message order?
