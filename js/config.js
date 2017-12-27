@@ -117,10 +117,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-     "Welcome To Thermal Network",
+     "Welcome To Thermal Network Police RP",
 	 "Thank You For Joining",
 	 "Enjoy Your Stay",
-	 "Join Our Teamspeak ts87.gameservers.com:9120"
+	 "Join Our Teamspeak",
+	 "Download Our Content pack http://steamcommunity.com/sharedfiles/filedetails/?id=1243381548"
 ];
 
 /*Random message order?
