@@ -99,7 +99,7 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-	{youtube: "733z6aKwMA", name: "Otherwise - Soldiers"},
+	{"music1.mp4", name: "Otherwise - Soldiers"},
 ];
 	
 /*Random music order?
@@ -116,16 +116,16 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-     "Welcome To Thermal Networks",
+     "Welcome To Royal Networks",
 	 "Thank You For Joining",
 	 "Enjoy Your Stay",
-	 "Join Our Discord: https://discord.gg/Z77DWj2",
-	 "Download Our Content pack http://steamcommunity.com/sharedfiles/filedetails/?id=1251016003"
+	 "Join Our Discord: https://discord.gg/8Fs97Zf",
+	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1300211115"
 ];
 
 /*Random message order?
 'true' or 'false'*/
-var l_messagesRandom = true;
+var l_messagesRandom = false
 
 /*Delay between message changes
 in milliseconds*/
