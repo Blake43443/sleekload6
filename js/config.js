@@ -96,7 +96,7 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-	{ogg: "music1.ogg", name: "Otherwise - Soldiers"},
+	{youtube: "733z6aKwMA", name: "Otherwise - Soldiers"},
 ];
 	
 /*Random music order?
