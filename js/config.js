@@ -58,7 +58,7 @@ Multiple images will automatically shuffle between them
 (Place the files in the backgrounds/images folder)*/
 var l_bgImages = [
 	"pic1.JPG",
-	"pic2.JPG"
+	"pic2.JPG",
 ];
 
 /*Random background images order?
@@ -105,7 +105,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 (quietest) and 100 (loudest)*/
-var l_musicVolume = 15;
+var l_musicVolume = 10;
 
 /*Enable custom messages?
 'true' or 'false'*/
