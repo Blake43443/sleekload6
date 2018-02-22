@@ -96,7 +96,7 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-	{youtube: "733z6aKwMA", name: "Otherwise - Soldiers"},
+	{ogg: "music.ogg", name: "Otherwise - Soldiers"},
 ];
 	
 /*Random music order?
@@ -117,7 +117,7 @@ var l_messages = [
 	 "Thank You For Joining",
 	 "Enjoy Your Stay",
 	 "Join Our Discord: https://discord.gg/8Fs97Zf",
-	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1300211115"
+	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1306570136"
 ];
 
 /*Random message order?
