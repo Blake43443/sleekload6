@@ -104,7 +104,7 @@ var l_musicDisplay = true;
 Add as many youtube ids or ogg files you want
 (Place the ogg files in the music folder)*/
 var l_musicPlaylist = [
-	{ogg: "music.ogg", name: "Otherwise - Soldiers"},
+	{youtube: "p733z6aKwMA", name: "Otherwise - Soldiers"},
 ];
 	
 /*Random music order?
@@ -113,7 +113,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 (quietest) and 100 (loudest)*/
-var l_musicVolume = 10;
+var l_musicVolume = 15;
 
 /*Enable custom messages?
 'true' or 'false'*/
