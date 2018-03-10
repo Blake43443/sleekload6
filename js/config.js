@@ -116,11 +116,11 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-     "Welcome To Royal Networks",
+     "Welcome To StealthyRP",
 	 "Thank You For Joining",
 	 "Enjoy Your Stay",
-	 "Join Our Discord: https://discord.gg/8Fs97Zf",
-	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1306570136"
+	 "Join Our Discord: https://discord.gg/sBZXC39",
+	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1325210914"
 ];
 
 /*Random message order?
