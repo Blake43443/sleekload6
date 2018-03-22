@@ -62,6 +62,9 @@ var l_bgImages = [
 "3.jpg",
 "4.jpg",
 "5.jpg",
+"6.jpg",
+"7.jpg",
+"8.jpg",
 ];
 
 /*Random background images order?
@@ -120,7 +123,7 @@ var l_messages = [
 	 "Thank You For Joining",
 	 "Enjoy Your Stay",
 	 "Join Our Discord: https://discord.gg/sBZXC39",
-	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1325210914"
+	 "Download Our Content Pack: http://steamcommunity.com/sharedfiles/filedetails/?id=1333385930"
 ];
 
 /*Random message order?
